@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-The **Sales and Revenue Analysis System** is a SQL-based database project designed to store, manage, and analyze business sales data.  
-It helps in tracking customers, products, orders, and payments, and generates useful insights such as total revenue, monthly sales trends, and customer purchase behavior.
+The **Sales and Revenue Analysis System** is a SQL-based database project designed to store, manage, and analyze business sales data.It helps in tracking customers, products, orders, and payments, and generates useful insights such as total revenue, monthly sales trends, and customer purchase behavior.
 
 ---
 
